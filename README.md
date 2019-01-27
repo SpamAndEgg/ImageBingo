@@ -22,4 +22,4 @@ pictures in a given folder accordingly.
 ## Example card
 An example of a bingo card (with images just containing numbers) looks like this: 
 
-![alt text](https://github.com/SpamAndEgg/ImageBingo/blob/master/example_result/card_001.png)
+<img src="https://github.com/SpamAndEgg/ImageBingo/blob/master/example_result/card_001.png"  width="500">
