@@ -18,3 +18,8 @@ The pictures used for the bingo cards have to be named sequentially with
 the image file extension chosen (e.g. "1.png", "2.png" and so on). An
 additional script provided ("rename_all_image.m") allows to rename all
 pictures in a given folder accordingly.
+
+## Example card
+An example of a bingo card (with images just containing numbers) looks like this: 
+
+![alt text](https://github.com/SpamAndEgg/ImageBingo/blob/master/example_result/card_001.png)
